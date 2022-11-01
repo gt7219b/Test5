@@ -1,4 +1,10 @@
 small change to git repository.
 I was told this was a good editor
-No Cows!
+
+
+MOO! I am not going anywhere
+
+Adding notes on git
+
+<<No Cows!>> I meant, hellooooOOO Cows
 
