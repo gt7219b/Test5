@@ -2,3 +2,5 @@ small change to git repository.
 I was told this was a good editor
 
 MOO!
+
+Adding notes on git
